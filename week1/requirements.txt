@@ -1,0 +1,7 @@
+nuscenes-devkit
+numpy
+matplotlib
+pyquaternion
+Pillow
+torch
+torchvision
